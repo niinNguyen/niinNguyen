@@ -1,5 +1,12 @@
 ### Hi there 👋
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
+
+<a href="https://github.com/niinNguyen">
+<img align="center" alt="niin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=niinNguyen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/niinNguyen">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=niinNguyen&layout=compact&theme=radical" />
+</a>
+
 <!--
 **niinNguyen/niinNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![niinNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=niinNguyen&theme=gradient&show_icons=true)
