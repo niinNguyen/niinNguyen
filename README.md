@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![niinNguyen's github stats](https:/niinNguyen.vercel.app/api?username=niinNguyen&theme=calm&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niinNguyen)](https://github.com/niinNguyen/niinNguyen)
+![niinNguyen's github stats](https:/github-readme-stats.vercel.app/api?username=niinNguyen&theme=calm&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niinNguyen)](https://github.com/niinNguyen/github-readme-stats)
