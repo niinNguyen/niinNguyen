@@ -10,10 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/niinNguyen">
-  <img align="right" src="https://github-readme-stats.niinNguyen.vercel.app/api/top-langs/?username=niinNguyen&layout=compact&theme=radical" />
-</a>
-
 <p>
   <a href="https://github.com/niinNguyen">
 <img align="center" alt="niin's base" src="https://github-readme-stats.codestackr.vercel.app/api?username=niinNguyen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
