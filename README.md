@@ -10,6 +10,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niinNguyen)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=niinNguyen)  
+
+![GitHub metrics](https://metrics.lecoq.io/niinNguyen)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=niinNguyen)  
+
+![Profile views](https://gpvc.arturio.dev/niinNguyen)
+
 <p>
   <a href="https://github.com/niinNguyen">
 <img align="center" alt="niin's base" src="https://github-readme-stats.codestackr.vercel.app/api?username=niinNguyen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
