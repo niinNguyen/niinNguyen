@@ -11,12 +11,12 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/niinNguyen">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=niinNguyen&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.niinNguyen.vercel.app/api/top-langs/?username=niinNguyen&layout=compact&theme=radical" />
 </a>
 
 <p>
   <a href="https://github.com/niinNguyen">
-<img align="center" alt="niin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=niinNguyen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="niin's base" src="https://github-readme-stats.codestackr.vercel.app/api?username=niinNguyen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
   <p>
     <img src="https://img.shields.io/badge/-IntelliJ%20Idea-000000?style=flat-square&logo=IntelliJ%20Idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio-854db9?style=flat-square&logo=Visual%20Studio&logoColor=White"/>
