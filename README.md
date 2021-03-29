@@ -1,10 +1,10 @@
 ### Hi there 👋
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
-<a href="https://github.com/niinNguyen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niinNguyen&repo=github-readme-stats" />
+<a href="https://github.com/niinNguyen/niinNguyen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niinNguyen&repo=niinNguyen" />
 </a>
 <a href="https://github.com/niinNguyen/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niinNguyen&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niinNguyen&repo=niinNguyen" />
 </a>
 
 <!--
