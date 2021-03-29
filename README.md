@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![niinNguyen's github stats](https://github-readme-stats.vercel.app/api?username=niinNguyen)
+![niinNguyen's github stats](https://github-readme-stats.vercel.app/api?username=niinNguyen&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niinNguyen)](https://github.com/niinNguyen/github-readme-stats)
