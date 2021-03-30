@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Java**, **Vuejs**, **C#**, **AWS**
 - 🎸 I love listening to genres kind of music.
-- 
 
 ---
 
@@ -64,10 +63,17 @@
 
 ---
 
-### Currently Activity:
+### 🎧 Spotify Playing
+
+[<img src="https://niinNguyen.vercel.app/api/spotify-playing" alt="niinNguyen Spotify Playing" width="350" />](https://open.spotify.com/user/2164bqvmkrryjofklpquil65ab)
+
+[![Spotify](https://niinNguyen.vercel.app/api/spotify)](https://open.spotify.com/user/2164bqvmkrryjofklpquil65ab)
+---
+
+### ⚡ Currently Activity
 <!--START_SECTION:activity-->
 
-
+<!--END_SECTION:activity-->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=niinNguyen)  
 
