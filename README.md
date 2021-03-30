@@ -15,7 +15,13 @@
 [<img align="left" alt="niinNguyen | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="niinNguyen | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">][facebook]
 
-<br/>
+---
+
+### 🎧 Spotify Playing
+
+[![Spotify](https://novatorem-niinnguyen.vercel.app/api/spotify)](https://open.spotify.com/user/2164bqvmkrryjofklpquil65ab)
+
+---
 
 ### 🔨 Languages and Tools
 
@@ -60,12 +66,6 @@
 
 </p>
 <br>
-
----
-
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem-niinnguyen.vercel.app/api/spotify)](https://open.spotify.com/user/2164bqvmkrryjofklpquil65ab)
 
 ---
 
