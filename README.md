@@ -65,9 +65,9 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://niinNguyen.vercel.app/api/spotify-playing" alt="niinNguyen Spotify Playing" width="350" />](https://open.spotify.com/user/2164bqvmkrryjofklpquil65ab)
+[<img src="https://novatorem-niinnguyen.vercel.app/api/spotify-playing" alt="niinNguyen Spotify Playing" width="350" />](https://open.spotify.com/user/2164bqvmkrryjofklpquil65ab)
 
-[![Spotify](https://niinNguyen.vercel.app/api/spotify)](https://open.spotify.com/user/2164bqvmkrryjofklpquil65ab)
+[![Spotify](https://novatorem-niinnguyen.vercel.app/api/spotify)](https://open.spotify.com/user/2164bqvmkrryjofklpquil65ab)
 ---
 
 ### ⚡ Currently Activity
