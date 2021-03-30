@@ -2,16 +2,17 @@
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/niinNguyen?color=cf4a4a&label=Followers&logoColor=cf4a4a&style=for-the-badge) -->
 
-## I'm a **Software Engineer**, **Ideal Lover** ♥️
+## I'm a **Software Engineer** and an **ideal lover** ♥️
 
 - 🌱 I’m currently learning **Java**, **Vuejs**, **C#**, **AWS**
-- 🎸 I love listening to genres kind of music
+- 🎸 I love listening to genres kind of music.
+- 
 
 ---
 
 ### 📞 How to reach me
 
-[<img align="left" alt="niinNguyen | LinkedIn" src=" https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img align="left" alt="niinNguyen | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="niinNguyen | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="niinNguyen | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">][facebook]
 
