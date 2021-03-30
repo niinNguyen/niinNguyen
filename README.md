@@ -3,9 +3,11 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/niinNguyen?color=cf4a4a&label=Followers&logoColor=cf4a4a&style=for-the-badge) -->
 
 ## I'm a **Software Engineer**, **Ideal Lover** ♥️
+
 - 🌱 I’m currently learning **Java**, **Vuejs**, **C#**, **AWS**
 - 🎸 I love listening to genres kind of music
 <br>
+
 ---
 
 ### 📞 How to reach me:
