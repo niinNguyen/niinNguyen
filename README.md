@@ -65,7 +65,7 @@
 
 ### Currently Activity:
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=niinNguyen)  
